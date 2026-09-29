@@ -227,3 +227,10 @@ FastAPI API design, Pydantic validation, async Python, interface-based design,
 security-conscious data handling, Redis counters and TTL caching, dependency
 injection, deterministic testing, failure modeling, Docker hardening, CI quality
 gates, and technical documentation.
+
+
+<img width="1648" height="1226" alt="image" src="https://github.com/user-attachments/assets/01eb6f66-6024-498a-9940-b0f2e46655b9" />
+<img width="1620" height="1180" alt="image" src="https://github.com/user-attachments/assets/ab540fe4-1be0-4dda-a0d9-1d3dae085dd0" />
+<img width="1088" height="730" alt="image" src="https://github.com/user-attachments/assets/247a90f7-dd28-4357-8b46-854a182ee500" />
+
+
